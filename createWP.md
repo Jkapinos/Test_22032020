@@ -1,4 +1,4 @@
-## [](https://cloud.yandex.ru/docs/solutions/web/lamp-lemp#before-you-begin)Сделайте резервную копию сайта в WordPress
+## [](https://github.com/Jkapinos/web/blob/master/createWP)Сделайте резервную копию сайта в WordPress
 
 Перед тем, как перенести сайт с WordPress в LAMP-инфраструктуру Яндекс.Облака, нужно сделать резервную копию всех файлов вашего сайта на WordPress:
 
